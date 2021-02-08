@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+![Banner](https://github.com/VeXeBB/VeXeBB/blob/main/Banner.jpeg)
 
 I'm a 26 year old guy who lives in the Poland, who found his love for coding almost 1 year ago. I'm still learning how to code. I love creating and designing apps in Python (and possible other languages in the future).  It's fun to code something that anyone on the web can easily see, and use. I find programming in Python challenging because it's one of the most popualar programming languages and people still find more uses to that. There's nothing better than the feeling you get when you can finally solve a difficult problem.
 
